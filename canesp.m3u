@@ -1,5 +1,28 @@
 #EXTM3U
-#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Undefined",CA | NTV,NTV,NTV CA
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC VANCOUVER
+http://bazarhd.online:80/307210113622/307210113622/81404?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS NETWORK
+http://bazarhd.online:80/307210113622/307210113622/81219?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Undefined",CA | NTV,NTV,NTV CA
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC VANCOUVER
+http://bazarhd.online:80/307210113622/307210113622/81404?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS NETWORK
+http://bazarhd.online:80/307210113622/307210113622/81219?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24 HORAS
 http://fliptv.vip:8011/omer/12345/55121?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="News;Undefined",24 Horas,24h Rtve (ES),rtve.es 24h
@@ -8,184 +31,595 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",ANDALUCIA TV
 http://fliptv.vip:8011/omer/12345/55160?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",AXN FullHD
-http://fliptv.vip:8011/omer/12345/55150?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",AXN HD
-http://fliptv.vip:8011/omer/12345/55151?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Antena 3 FullHD
-http://fliptv.vip:8011/omer/12345/55205?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",BARCA TV HD
-http://fliptv.vip:8011/omer/12345/55142?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sports Espa?a HD
-http://fliptv.vip:8011/omer/12345/55147?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Bein LaLiga bar FullHD
-http://fliptv.vip:8011/omer/12345/55144?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/pY8zxN3.png" group-title="Undefined",Bon Dia TV,ES | Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CALLE 13 FullHD
-http://fliptv.vip:8011/omer/12345/55169?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",CALLE 13 HD
-http://fliptv.vip:8011/omer/12345/55170?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",COSMO FHD
-http://fliptv.vip:8011/omer/12345/55124?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Comedy Central HD
-http://fliptv.vip:8011/omer/12345/55172?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="Undefined",ES | TV3 Catalunya,TV3 Catalunya
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8?checkedby:iptvcat.com
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Undefined",324,ES | 324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FOX HD
-http://fliptv.vip:8011/omer/12345/55175?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",FOX LIFE HD
-http://fliptv.vip:8011/omer/12345/55174?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",HISTORIA HD
-http://fliptv.vip:8011/omer/12345/55128?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/u0lyhFX.png" group-title="Undefined",Interalmeria TV
-http://interalmeria.tv/directo/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA FullHD
-http://fliptv.vip:8011/omer/12345/55199?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
-http://fliptv.vip:8011/omer/12345/55200?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",La 1 FullHD
-http://fliptv.vip:8011/omer/12345/55208?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",La 2 FullHD
-http://fliptv.vip:8011/omer/12345/55120?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="Entertainment",La Voz 24h
-https://pull12.atresmedia.com/lavoz/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",MOVISTAR SERIES FHD
-http://fliptv.vip:8011/omer/12345/55193?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar CineN HD
-http://fliptv.vip:8011/omer/12345/55191?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar DEPORTES 2
-http://fliptv.vip:8011/omer/12345/55181?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Drama FHD
-http://fliptv.vip:8011/omer/12345/55195?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Drama HD
-http://fliptv.vip:8011/omer/12345/55196?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Estrenos HD
-http://fliptv.vip:8011/omer/12345/55189?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NEOX HD
-http://fliptv.vip:8011/omer/12345/55140?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NOVA
-http://fliptv.vip:8011/omer/12345/55162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Nat Geo Wild FullHD
-http://fliptv.vip:8011/omer/12345/55153?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",NatGeo Wild HD
-http://fliptv.vip:8011/omer/12345/55154?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",National Geographic FullHD
-http://fliptv.vip:8011/omer/12345/55155?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",National Geographic HD
-http://fliptv.vip:8011/omer/12345/55156?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",National Geographic Wild FHD
-http://mail.vipmek.com:8800/565656/565656/38658?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Odisea HD
-http://fliptv.vip:8011/omer/12345/55157?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Paramount Channel
-http://mail.vipmek.com:8800/565656/565656/38655?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",RTVC
-http://fliptv.vip:8011/omer/12345/55123?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/ZigKzBj.png" group-title="Undefined",RTVE
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Syfy HD
-http://fliptv.vip:8011/omer/12345/55166?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TCM FullHD
-http://fliptv.vip:8011/omer/12345/55141?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TELECINCO HD
-http://fliptv.vip:8011/omer/12345/55202?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TNT HD
-http://fliptv.vip:8011/omer/12345/55164?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TVE Internacional
-http://fliptv.vip:8011/omer/12345/57575?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local;Undefined",TVG Cultural
-http://cultural-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Taquilla 1
-http://fliptv.vip:8011/omer/12345/55138?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Telecinco FullHD
-http://fliptv.vip:8011/omer/12345/55201?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/3N90uxs.png" group-title="Undefined",Trece TV
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
-http://bazarhd.online:80/307210113622/307210113622/81424?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMI-TV
-http://185.63.254.40:80/912461531477289/840194034422592/176081?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AQUARIUM
-http://185.63.254.40:80/912461531477289/840194034422592/259053?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Undefined",Amazing Discoveries TV,CA | Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC EARTH
-http://185.63.254.40:80/912461531477289/840194034422592/259070?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD
-http://185.63.254.40:80/912461531477289/840194034422592/259074?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Undefined",CA | NTV,NTV,NTV CA
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC News Network HD
-http://185.63.254.40:80/912461531477289/840194034422592/176093?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNBC HD
-http://185.63.254.40:80/912461531477289/840194034422592/176088?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN HD
-http://185.63.254.40:80/912461531477289/840194034422592/176095?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN International
-http://185.63.254.40:80/912461531477289/840194034422592/259073?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24 News HD
-http://185.63.254.40:80/912461531477289/840194034422592/176094?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV News Channel HD
-http://185.63.254.40:80/912461531477289/840194034422592/176090?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",EURONEWS
-http://185.63.254.40:80/912461531477289/840194034422592/259072?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Fox News Network
-http://185.63.254.40:80/912461531477289/840194034422592/176092?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Gusto
-http://185.63.254.40:80/912461531477289/840194034422592/242944?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Headline News
-http://185.63.254.40:80/912461531477289/840194034422592/176087?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MSNBC
-http://185.63.254.40:80/912461531477289/840194034422592/362325?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTIME
-http://185.63.254.40:80/912461531477289/840194034422592/242949?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV 2
-http://bazarhd.online:80/307210113622/307210113622/81241?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NASA
-http://185.63.254.40:80/912461531477289/840194034422592/259054?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO
-http://bazarhd.online:80/307210113622/307210113622/81228?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NTV
-http://185.63.254.40:80/912461531477289/840194034422592/13337?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",PBS 9 (KCTS) Seattle
-http://185.63.254.40:80/912461531477289/840194034422592/176078?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
-http://185.63.254.40:80/912461531477289/840194034422592/175777?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
-http://185.63.254.40:80/912461531477289/840194034422592/175775?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
-http://185.63.254.40:80/912461531477289/840194034422592/175774?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
-http://185.63.254.40:80/912461531477289/840194034422592/175773?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TCM HD
-http://185.63.254.40:80/912461531477289/840194034422592/242951?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TELE LATINO
-http://bazarhd.online:80/307210113622/307210113622/81312?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TMN 1
-http://185.63.254.40:80/912461531477289/840194034422592/242952?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSC HD
-http://185.63.254.40:80/912461531477289/840194034422592/242954?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1
-http://185.63.254.40:80/912461531477289/840194034422592/175769?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2
-http://185.63.254.40:80/912461531477289/840194034422592/175768?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3
-http://185.63.254.40:80/912461531477289/840194034422592/175767?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4
-http://185.63.254.40:80/912461531477289/840194034422592/175766?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5
-http://185.63.254.40:80/912461531477289/840194034422592/175765?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Weather Network HD
-http://185.63.254.40:80/912461531477289/840194034422592/176086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Syfy
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/74?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLC
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/1415?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Travel Channel
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/1037?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Animal Planet
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/441?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Animal Planet  +1
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/4457?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC News
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/17019?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC ONE HD
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/185?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/3134?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/68?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery History
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/67?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Euronews
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/8695?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOX
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/434?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOX News
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/5782?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Food Network  1
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/4443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Rocks
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/105?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/7438?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
+http://truvaiptv.com:7777/ayberK/ayberK/4938?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NATGEO WILD
+http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/7463?checkedby:iptvcat.com
+#EXTINF:-1,USA A&E UHD
+http://supersonictv.live:25461/903310/034806/22040
+Download from freeiptvm3u24.blogspot.com
+#EXTINF:-1,USA ABC UHD
+http://supersonictv.live:25461/903310/034806/22041
+#EXTINF:-1,USA AMC UHD
+http://supersonictv.live:25461/903310/034806/22042
+#EXTINF:-1,USA: ADULT SWIM
+http://supersonictv.live:25461/903310/034806/22043
+#EXTINF:-1,USA American Heroes
+http://supersonictv.live:25461/903310/034806/22044
+#EXTINF:-1,USA Animal Planet East UHD
+http://supersonictv.live:25461/903310/034806/22045
+#EXTINF:-1,USA Animal Planet West LHD
+http://supersonictv.live:25461/903310/034806/22046
+#EXTINF:-1,USA ANTENNA TV
+http://supersonictv.live:25461/903310/034806/22047
+#EXTINF:-1,USA Aspire
+http://supersonictv.live:25461/903310/034806/22048
+#EXTINF:-1,USA AWE
+http://supersonictv.live:25461/903310/034806/22049
+#EXTINF:-1,USA AXS TV
+http://supersonictv.live:25461/903310/034806/22050
+#EXTINF:-1,USA BBC America UHD
+http://supersonictv.live:25461/903310/034806/22051
+#EXTINF:-1,USA BET UHD
+http://supersonictv.live:25461/903310/034806/22052
+#EXTINF:-1,USA BET HER
+http://supersonictv.live:25461/903310/034806/22053
+#EXTINF:-1,USA BET Jams
+http://supersonictv.live:25461/903310/034806/22054
+#EXTINF:-1,USA BET SOUL
+http://supersonictv.live:25461/903310/034806/22055
+#EXTINF:-1,USA BET Gospel
+http://supersonictv.live:25461/903310/034806/22056
+#EXTINF:-1,USA BET West
+http://supersonictv.live:25461/903310/034806/22057
+#EXTINF:-1,USA BOUNCE TV
+http://supersonictv.live:25461/903310/034806/22058
+#EXTINF:-1,USA Bravo East UHD
+http://supersonictv.live:25461/903310/034806/22059
+#EXTINF:-1,USA Bravo West LHD
+http://supersonictv.live:25461/903310/034806/22060
+#EXTINF:-1,USA BUZZR
+http://supersonictv.live:25461/903310/034806/22061
+#EXTINF:-1,USA CBS UHD
+http://supersonictv.live:25461/903310/034806/22062
+#EXTINF:-1,USA CMT UHD
+http://supersonictv.live:25461/903310/034806/22063
+#EXTINF:-1,USA CNBC UHD
+http://supersonictv.live:25461/903310/034806/22064
+#EXTINF:-1,USA Comedy Central East UHD
+http://supersonictv.live:25461/903310/034806/22065
+#EXTINF:-1,USA Comet LHD
+http://supersonictv.live:25461/903310/034806/22066
+#EXTINF:-1,USA Cooking Channel
+http://supersonictv.live:25461/903310/034806/22067
+#EXTINF:-1,USA COURT TV
+http://supersonictv.live:25461/903310/034806/22068
+#EXTINF:-1,USA: COWBOY CHANNEL
+http://supersonictv.live:25461/903310/034806/22069
+#EXTINF:-1,USA COZI TV LHD
+http://supersonictv.live:25461/903310/034806/22070
+#EXTINF:-1,USA Crime & Investigation
+http://supersonictv.live:25461/903310/034806/22071
+#EXTINF:-1,USA Destination America UHD
+http://supersonictv.live:25461/903310/034806/22073
+#EXTINF:-1,USA Discovery Channel UHD
+http://supersonictv.live:25461/903310/034806/22074
+#EXTINF:-1,USA Discovery Life UHD
+http://supersonictv.live:25461/903310/034806/22075
+#EXTINF:-1,USA Discovery Family
+http://supersonictv.live:25461/903310/034806/22076
+#EXTINF:-1,USA Discovery Science
+http://supersonictv.live:25461/903310/034806/22077
+#EXTINF:-1,USA Discovery Velocity
+http://supersonictv.live:25461/903310/034806/22078
+#EXTINF:-1,USA Discovery West LHD
+http://supersonictv.live:25461/903310/034806/22079
+#EXTINF:-1,USA DIY Network UHD
+http://supersonictv.live:25461/903310/034806/22080
+#EXTINF:-1,USA E! East UHD
+http://supersonictv.live:25461/903310/034806/22081
+#EXTINF:-1,USA E! West LHD
+http://supersonictv.live:25461/903310/034806/22082
+#EXTINF:-1,USA EL REY NETWORK
+http://supersonictv.live:25461/903310/034806/22083
+#EXTINF:-1,USA Food Network East UHD
+http://supersonictv.live:25461/903310/034806/22084
+#EXTINF:-1,USA Food Network West LHD
+http://supersonictv.live:25461/903310/034806/22085
+#EXTINF:-1,USA Fox UHD
+http://supersonictv.live:25461/903310/034806/22086
+#EXTINF:-1,USA Fox Life
+http://supersonictv.live:25461/903310/034806/22087
+#EXTINF:-1,USA Fuse TV
+http://supersonictv.live:25461/903310/034806/22089
+#EXTINF:-1,USA Fusion LHD
+http://supersonictv.live:25461/903310/034806/22090
+#EXTINF:-1,USA FX East UHD
+http://supersonictv.live:25461/903310/034806/22091
+#EXTINF:-1,USA FX West LHD
+http://supersonictv.live:25461/903310/034806/22092
+#EXTINF:-1,USA FXM UHD
+http://supersonictv.live:25461/903310/034806/22093
+#EXTINF:-1,USA FXX East UHD
+http://supersonictv.live:25461/903310/034806/22094
+#EXTINF:-1,USA FXX West LHD
+http://supersonictv.live:25461/903310/034806/22095
+#EXTINF:-1,USA FYI
+http://supersonictv.live:25461/903310/034806/22096
+#EXTINF:-1,USA Galavision
+http://supersonictv.live:25461/903310/034806/22097
+#EXTINF:-1,USA Game Show Network UHD
+http://supersonictv.live:25461/903310/034806/22098
+#EXTINF:-1,USA GET TV
+http://supersonictv.live:25461/903310/034806/22099
+#EXTINF:-1,USA Grit TV
+http://supersonictv.live:25461/903310/034806/22100
+#EXTINF:-1,USA HGTV East UHD
+http://supersonictv.live:25461/903310/034806/22101
+#EXTINF:-1,USA Heroes & Icons
+http://supersonictv.live:25461/903310/034806/22102
+#EXTINF:-1,USA HGTV West LHD
+http://supersonictv.live:25461/903310/034806/22103
+#EXTINF:-1,USA History UHD
+http://supersonictv.live:25461/903310/034806/22104
+#EXTINF:-1,USA HLN UHD
+http://supersonictv.live:25461/903310/034806/22107
+#EXTINF:-1,USA IFC LHD
+http://supersonictv.live:25461/903310/034806/22108
+#EXTINF:-1,USA INSP
+http://supersonictv.live:25461/903310/034806/22109
+#EXTINF:-1,USA Investigation Discovery East UHD
+http://supersonictv.live:25461/903310/034806/22110
+#EXTINF:-1,USA Investigation Discovery West LHD
+http://supersonictv.live:25461/903310/034806/22111
+#EXTINF:-1,USA JUSTICE CENTRAL
+http://supersonictv.live:25461/903310/034806/22112
+#EXTINF:-1,USA LAFF
+http://supersonictv.live:25461/903310/034806/22113
+#EXTINF:-1,USA Law And Crime
+http://supersonictv.live:25461/903310/034806/22114
+#EXTINF:-1,USA Lifetime East UHD
+http://supersonictv.live:25461/903310/034806/22115
+#EXTINF:-1,USA LOGO
+http://supersonictv.live:25461/903310/034806/22116
+#EXTINF:-1,USA MAVTV
+http://supersonictv.live:25461/903310/034806/22117
+#EXTINF:-1,USA ME TV
+http://supersonictv.live:25461/903310/034806/22118
+#EXTINF:-1,USA MotorTrend UHD
+http://supersonictv.live:25461/903310/034806/22119
+#EXTINF:-1,USA MTV UHD
+http://supersonictv.live:25461/903310/034806/22120
+#EXTINF:-1,USA NASA TV
+http://supersonictv.live:25461/903310/034806/22121
+#EXTINF:-1,USA Nat Geo WILD LHD
+http://supersonictv.live:25461/903310/034806/22122
+#EXTINF:-1,USA National Geographic East UHD
+http://supersonictv.live:25461/903310/034806/22123
+#EXTINF:-1,USA National Geographic West LHD
+http://supersonictv.live:25461/903310/034806/22124
+#EXTINF:-1,USA National Geographic Wild East UHD
+http://supersonictv.live:25461/903310/034806/22125
+#EXTINF:-1,USA NBC UHD
+http://supersonictv.live:25461/903310/034806/22126
+#EXTINF:-1,USA Neon
+http://supersonictv.live:25461/903310/034806/22127
+#EXTINF:-1,USA Network West LHD
+http://supersonictv.live:25461/903310/034806/22129
+#EXTINF:-1,USA OWN East UHD
+http://supersonictv.live:25461/903310/034806/22130
+#EXTINF:-1,USA Outdoor Channel
+http://supersonictv.live:25461/903310/034806/22131
+#EXTINF:-1,USA Outside TV
+http://supersonictv.live:25461/903310/034806/22132
+#EXTINF:-1,USA Ovation
+http://supersonictv.live:25461/903310/034806/22133
+#EXTINF:-1,USA Oxygen East UHD
+http://supersonictv.live:25461/903310/034806/22134
+#EXTINF:-1,USA Oxygen West LHD
+http://supersonictv.live:25461/903310/034806/22135
+#EXTINF:-1,USA POP
+http://supersonictv.live:25461/903310/034806/22139
+#EXTINF:-1,USA Pursuit
+http://supersonictv.live:25461/903310/034806/22140
+#EXTINF:-1,USA QVC
+http://supersonictv.live:25461/903310/034806/22141
+#EXTINF:-1,USA Reelz
+http://supersonictv.live:25461/903310/034806/22142
+#EXTINF:-1,USA Revolt
+http://supersonictv.live:25461/903310/034806/22143
+#EXTINF:-1,USA Ride TV
+http://supersonictv.live:25461/903310/034806/22144
+#EXTINF:-1,USA Science UHD
+http://supersonictv.live:25461/903310/034806/22145
+#EXTINF:-1,USA: RFD-TV
+http://supersonictv.live:25461/903310/034806/22146
+#EXTINF:-1,USA SHORTS TV
+http://supersonictv.live:25461/903310/034806/22147
+#EXTINF:-1,USA Smithsonian Channel LHD
+http://supersonictv.live:25461/903310/034806/22148
+#EXTINF:-1,USA: SPORTSMAN CHANNEL
+http://supersonictv.live:25461/903310/034806/22149
+#EXTINF:-1,USA SNY LHD
+http://supersonictv.live:25461/903310/034806/22150
+#EXTINF:-1,USA Sundance TV LHD
+http://supersonictv.live:25461/903310/034806/22152
+#EXTINF:-1,USA Tastemade LHD
+http://supersonictv.live:25461/903310/034806/22153
+#EXTINF:-1,USA TBS East UHD
+http://supersonictv.live:25461/903310/034806/22154
+#EXTINF:-1,USA TBS West LHD
+http://supersonictv.live:25461/903310/034806/22155
+#EXTINF:-1,USA TCM
+http://supersonictv.live:25461/903310/034806/22156
+#EXTINF:-1,USA TLC UHD
+http://supersonictv.live:25461/903310/034806/22157
+#EXTINF:-1,USA TLC West
+http://supersonictv.live:25461/903310/034806/22158
+#EXTINF:-1,USA TNT East UHD
+http://supersonictv.live:25461/903310/034806/22159
+#EXTINF:-1,USA TNT Pacific
+http://supersonictv.live:25461/903310/034806/22160
+#EXTINF:-1,USA TNT West LHD
+http://supersonictv.live:25461/903310/034806/22161
+#EXTINF:-1,USA Travel East UHD
+http://supersonictv.live:25461/903310/034806/22162
+#EXTINF:-1,USA Travel Pacific
+http://supersonictv.live:25461/903310/034806/22163
+#EXTINF:-1,USA TruTV East UHD
+http://supersonictv.live:25461/903310/034806/22164
+#EXTINF:-1,USA truTV West LHD
+http://supersonictv.live:25461/903310/034806/22165
+#EXTINF:-1,USA TV One
+http://supersonictv.live:25461/903310/034806/22166
+#EXTINF:-1,USA TVG Network
+http://supersonictv.live:25461/903310/034806/22167
+#EXTINF:-1,USA TVG 2 Network
+http://supersonictv.live:25461/903310/034806/22168
+#EXTINF:-1,USA TVLand UHD
+http://supersonictv.live:25461/903310/034806/22169
+#EXTINF:-1,USA Universo
+http://supersonictv.live:25461/903310/034806/22170
+#EXTINF:-1,USA Universo West LHD
+http://supersonictv.live:25461/903310/034806/22171
+#EXTINF:-1,USA Univision East UHD
+http://supersonictv.live:25461/903310/034806/22173
+#EXTINF:-1,USA Network East UHD
+http://supersonictv.live:25461/903310/034806/22174
+#EXTINF:-1,USA USA NETWORK (WEST)
+http://supersonictv.live:25461/903310/034806/22175
+#EXTINF:-1,USA Usa Network Pacific
+http://supersonictv.live:25461/903310/034806/22176
+#EXTINF:-1,USA UFC Network
+http://supersonictv.live:25461/903310/034806/22177
+#EXTINF:-1,USA VH1 UHD
+http://supersonictv.live:25461/903310/034806/22178
+#EXTINF:-1,USA VH1 CLASSIC
+http://supersonictv.live:25461/903310/034806/22179
+#EXTINF:-1,USA Viceland
+http://supersonictv.live:25461/903310/034806/22180
+#EXTINF:-1,USA Wapa America
+http://supersonictv.live:25461/903310/034806/22181
+#EXTINF:-1,USA WE TV LHD
+http://supersonictv.live:25461/903310/034806/22182
+#EXTINF:-1,USA World Fishing Network
+http://supersonictv.live:25461/903310/034806/22183
+#EXTINF:-1,USA: WGN AMERICA
+http://supersonictv.live:25461/903310/034806/22184
+#EXTINF:-1,USA WWE Network UHD
+http://supersonictv.live:25461/903310/034806/22185
+#EXTINF:-1,USA WPIX
+http://supersonictv.live:25461/903310/034806/22186
+#EXTINF:-1,USA Cars TV
+http://supersonictv.live:25461/903310/034806/47729
+#EXTINF:-1,USA Comedy TV
+http://supersonictv.live:25461/903310/034806/47730
+#EXTINF:-1,USA Court TV Mystery
+http://supersonictv.live:25461/903310/034806/47731
+#EXTINF:-1,USA Dog TV
+http://supersonictv.live:25461/903310/034806/47732
+#EXTINF:-1,USA GSN UHD
+http://supersonictv.live:25461/903310/034806/47733
+#EXTINF:-1,USA Hunt Channel
+http://supersonictv.live:25461/903310/034806/47734
+#EXTINF:-1,USA Info Wars
+http://supersonictv.live:25461/903310/034806/47735
+#EXTINF:-1,USA Lifetime Real Women
+http://supersonictv.live:25461/903310/034806/47736
+#EXTINF:-1,USA National Geographic People
+http://supersonictv.live:25461/903310/034806/47738
+#EXTINF:-1,USA People TV
+http://supersonictv.live:25461/903310/034806/47739
+#EXTINF:-1,USA QVC 2
+http://supersonictv.live:25461/903310/034806/47740
+#EXTINF:-1,USA TBD TV
+http://supersonictv.live:25461/903310/034806/47741
+#EXTINF:-1,USA The Film Detective
+http://supersonictv.live:25461/903310/034806/47742
+#EXTINF:-1,USA TMZ
+http://supersonictv.live:25461/903310/034806/47743
+#EXTINF:-1,USA UP TV
+http://supersonictv.live:25461/903310/034806/47744
+#EXTINF:-1,USA Z Classic
+http://supersonictv.live:25461/903310/034806/47745
+#EXTINF:-1,USA EWTN
+http://supersonictv.live:25461/903310/034806/67835
+#EXTINF:-1,WWE Network SD
+http://supersonictv.live:25461/903310/034806/71163
+#EXTINF:-1,USA AMC+
+http://supersonictv.live:25461/903310/034806/77252
+#EXTINF:-1,USA AMC Presents
+http://supersonictv.live:25461/903310/034806/77253
+#EXTINF:-1,USA Absolute Reality by WE tv
+http://supersonictv.live:25461/903310/034806/77254
+#EXTINF:-1,USA Beach TV - Myrtle Beach - Grand Strand
+http://supersonictv.live:25461/903310/034806/77548
+#EXTINF:-1,USA Beach TV Florida - Alabama
+http://supersonictv.live:25461/903310/034806/77549
+#EXTINF:-1,USA Beach TV Key West - Florida Keys
+http://supersonictv.live:25461/903310/034806/77550
+#EXTINF:-1,USA Beach TV Panama City
+http://supersonictv.live:25461/903310/034806/77551
+#EXTINF:-1,USA Great American Country
+http://supersonictv.live:25461/903310/034806/77552
+#EXTINF:-1,USA WGN 9 Chicago
+http://supersonictv.live:25461/903310/034806/77553
+#EXTINF:-1,USA WGN TV
+http://supersonictv.live:25461/903310/034806/77554
+#EXTINF:-1,USA TBN
+http://supersonictv.live:25461/903310/034806/77555
+#EXTINF:-1,USA DABL FHD
+http://supersonictv.live:25461/903310/034806/77556
+#EXTINF:-1,USA MGM
+http://supersonictv.live:25461/903310/034806/77557
+#EXTINF:-1,USA GUSTO
+http://supersonictv.live:25461/903310/034806/77558
+#EXTINF:-1,USA ION TV
+http://supersonictv.live:25461/903310/034806/77472
+#EXTINF:-1,USA HSN
+http://supersonictv.live:25461/903310/034806/78405
+#EXTINF:-1,USA HSN 2
+http://supersonictv.live:25461/903310/034806/78406
+#EXTINF:-1,CINEMAX 5 STARMAX UHD
+http://supersonictv.live:25461/903310/034806/22878
+#EXTINF:-1,Cinemax East UHD
+http://supersonictv.live:25461/903310/034806/22879
+#EXTINF:-1,Cinemax West UHD
+http://supersonictv.live:25461/903310/034806/22880
+#EXTINF:-1,CINEMAX ACTIONMAX UHD
+http://supersonictv.live:25461/903310/034806/22881
+#EXTINF:-1,CINEMAX MORE MAX UHD
+http://supersonictv.live:25461/903310/034806/22882
+#EXTINF:-1,CINEMAX MOVIE MAX UHD
+http://supersonictv.live:25461/903310/034806/22883
+#EXTINF:-1,CINEMAX OUTER MAX UHD
+http://supersonictv.live:25461/903310/034806/22884
+#EXTINF:-1,CINEMAX THRILLER MAX UHD
+http://supersonictv.live:25461/903310/034806/22885
+#EXTINF:-1,Epix UHD
+http://supersonictv.live:25461/903310/034806/22886
+#EXTINF:-1,EPIX2 UHD
+http://supersonictv.live:25461/903310/034806/22887
+#EXTINF:-1,EPIX Drive-In UHD
+http://supersonictv.live:25461/903310/034806/22888
+#EXTINF:-1,Epix Hits UHD
+http://supersonictv.live:25461/903310/034806/22889
+#EXTINF:-1,Hallmark Channel East. UHD
+http://supersonictv.live:25461/903310/034806/22890
+#EXTINF:-1,Hallmark Channel EAST LHD
+http://supersonictv.live:25461/903310/034806/22891
+#EXTINF:-1,Hallmark Drama .UHD
+http://supersonictv.live:25461/903310/034806/22892
+#EXTINF:-1,Hallmark Movies & Mysteries East UHD
+http://supersonictv.live:25461/903310/034806/22893
+#EXTINF:-1,HBO East UHD
+http://supersonictv.live:25461/903310/034806/22894
+#EXTINF:-1,HBO West UHD
+http://supersonictv.live:25461/903310/034806/22895
+#EXTINF:-1,HBO 2 East UHD
+http://supersonictv.live:25461/903310/034806/22896
+#EXTINF:-1,HBO Comedy UHD
+http://supersonictv.live:25461/903310/034806/22897
+#EXTINF:-1,HBO Family UHD
+http://supersonictv.live:25461/903310/034806/22898
+#EXTINF:-1,HBO Pacific UHD
+http://supersonictv.live:25461/903310/034806/22899
+#EXTINF:-1,HBO Signature UHD
+http://supersonictv.live:25461/903310/034806/22900
+#EXTINF:-1,HBO Zone UHD
+http://supersonictv.live:25461/903310/034806/22901
+#EXTINF:-1,INDIEPLEX |HD
+http://supersonictv.live:25461/903310/034806/22903
+#EXTINF:-1,Lifetime Movie Network East UHD
+http://supersonictv.live:25461/903310/034806/22904
+#EXTINF:-1,MOVIEPLEX | | HD
+http://supersonictv.live:25461/903310/034806/22905
+#EXTINF:-1,Paramount East UHD
+http://supersonictv.live:25461/903310/034806/22906
+#EXTINF:-1,Showtime East UHD
+http://supersonictv.live:25461/903310/034806/22908
+#EXTINF:-1,Showtime West UHD
+http://supersonictv.live:25461/903310/034806/22909
+#EXTINF:-1,Showtime 2 UHD
+http://supersonictv.live:25461/903310/034806/22910
+#EXTINF:-1,SHOxBET UHD
+http://supersonictv.live:25461/903310/034806/22911
+#EXTINF:-1,Showtime Extreme UHD
+http://supersonictv.live:25461/903310/034806/22912
+#EXTINF:-1,Showtime Family Zone UHD
+http://supersonictv.live:25461/903310/034806/22913
+#EXTINF:-1,Showtime Next UHD
+http://supersonictv.live:25461/903310/034806/22914
+#EXTINF:-1,Showtime Showcase UHD
+http://supersonictv.live:25461/903310/034806/22915
+#EXTINF:-1,Showtime Women UHD
+http://supersonictv.live:25461/903310/034806/22916
+#EXTINF:-1,Sony Movie Channel UHD
+http://supersonictv.live:25461/903310/034806/22917
+#EXTINF:-1,StarZ East UHD
+http://supersonictv.live:25461/903310/034806/22918
+#EXTINF:-1,Starz West UHD
+http://supersonictv.live:25461/903310/034806/22919
+#EXTINF:-1,Starz Cinema UHD
+http://supersonictv.live:25461/903310/034806/22920
+#EXTINF:-1,Starz Comedy UHD
+http://supersonictv.live:25461/903310/034806/22921
+#EXTINF:-1,Starz Edge UHD
+http://supersonictv.live:25461/903310/034806/22922
+#EXTINF:-1,Starz in Black UHD
+http://supersonictv.live:25461/903310/034806/22923
+#EXTINF:-1,Starz Kids & Family UHD
+http://supersonictv.live:25461/903310/034806/22924
+#EXTINF:-1,Starz Encore East UHD
+http://supersonictv.live:25461/903310/034806/22925
+#EXTINF:-1,Starz Encore West UHD
+http://supersonictv.live:25461/903310/034806/22926
+#EXTINF:-1,Starz Encore Action UHD
+http://supersonictv.live:25461/903310/034806/22927
+#EXTINF:-1,Starz Encore Black UHD
+http://supersonictv.live:25461/903310/034806/22928
+#EXTINF:-1,Starz Encore Classic UHD
+http://supersonictv.live:25461/903310/034806/22929
+#EXTINF:-1,Starz Encore Family UHD
+http://supersonictv.live:25461/903310/034806/22930
+#EXTINF:-1,Starz Encore Suspense UHD
+http://supersonictv.live:25461/903310/034806/22931
+#EXTINF:-1,Starz Encore Westerns UHD
+http://supersonictv.live:25461/903310/034806/22932
+#EXTINF:-1,Turner Classic Movies UHD
+http://supersonictv.live:25461/903310/034806/22933
+#EXTINF:-1,Syfy UHD
+http://supersonictv.live:25461/903310/034806/22946
+#EXTINF:-1,Syfy East UHD
+http://supersonictv.live:25461/903310/034806/22947
+#EXTINF:-1,Syfy West UHD
+http://supersonictv.live:25461/903310/034806/22948
+#EXTINF:-1,RetroPlex East UHD
+http://supersonictv.live:25461/903310/034806/47746
+#EXTINF:-1,RetroPlex West UHD
+http://supersonictv.live:25461/903310/034806/47747
+#EXTINF:-1,CINEMAX ACTIONMAX WEST UHD
+http://supersonictv.live:25461/903310/034806/61185
+#EXTINF:-1,CINEMAX MOREMAX WEST UHD
+http://supersonictv.live:25461/903310/034806/61186
+#EXTINF:-1,CINEMAX THRILLERMAX WEST UHD
+http://supersonictv.live:25461/903310/034806/61187
+#EXTINF:-1,Sky Cinema Thriller
+http://supersonictv.live:25461/903310/034806/77471
+#EXTINF:-1,Sky Cinema Select
+http://supersonictv.live:25461/903310/034806/77470
+#EXTINF:-1,Sky Cinema Horror & Scifi
+http://supersonictv.live:25461/903310/034806/77469
+#EXTINF:-1,Sky Cinema Premier
+http://supersonictv.live:25461/903310/034806/77468
+#EXTINF:-1,Sky Cinema Greats
+http://supersonictv.live:25461/903310/034806/77467
+#EXTINF:-1,Sky Cinema Family
+http://supersonictv.live:25461/903310/034806/77466
+#EXTINF:-1,Sky Cinema Drama
+http://supersonictv.live:25461/903310/034806/77465
+#EXTINF:-1,Sky Cinema |Disney
+http://supersonictv.live:25461/903310/034806/77464
+#EXTINF:-1,Sky Cinema Comedy
+http://supersonictv.live:25461/903310/034806/77463
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://supersonictv.live:25461/903310/034806/77462
+#EXTINF:-1,UK BT Sport ESPN HD
+http://supersonictv.live:25461/903310/034806/40440
+#EXTINF:-1,UK BT Sports 1 UHD
+http://supersonictv.live:25461/903310/034806/40441
+#EXTINF:-1,UK BT Sports 2 UHD
+http://supersonictv.live:25461/903310/034806/40442
+#EXTINF:-1,UK BT Sports 3 UHD
+http://supersonictv.live:25461/903310/034806/40443
+#EXTINF:-1,UK BT Sport Extra 1 (Live Match Only)
+http://supersonictv.live:25461/903310/034806/40444
+#EXTINF:-1,UK BT Sport Extra 2 (Live Match Only)
+http://supersonictv.live:25461/903310/034806/40445
+#EXTINF:-1,UK BT Sport Extra 3 (Live Match Only)
+http://supersonictv.live:25461/903310/034806/40446
+#EXTINF:-1,UK BT Sport Extra 4 (Live Match Only)
+http://supersonictv.live:25461/903310/034806/40447
+#EXTINF:-1,UK BT Sports Extra 5 (live match only)
+http://supersonictv.live:25461/903310/034806/40448
+#EXTINF:-1,UK Eir Sport 1 HD
+http://supersonictv.live:25461/903310/034806/40449
+#EXTINF:-1,UK Eir Sport 2
+http://supersonictv.live:25461/903310/034806/40450
+#EXTINF:-1,UK EuroSport 1 FHD
+http://supersonictv.live:25461/903310/034806/40451
+#EXTINF:-1,UK EuroSport 2 FHD
+http://supersonictv.live:25461/903310/034806/40452
+#EXTINF:-1,CA Fox Sports Racing
+http://supersonictv.live:25461/903310/034806/40462
+#EXTINF:-1,CA Fight Network
+http://supersonictv.live:25461/903310/034806/40463
+#EXTINF:-1,CA MLB Network
+http://supersonictv.live:25461/903310/034806/40464
+#EXTINF:-1,CA NBA TV
+http://supersonictv.live:25461/903310/034806/40465
+#EXTINF:-1,CA NFL Network
+http://supersonictv.live:25461/903310/034806/40466
+#EXTINF:-1,CA TSN 1 UHD
+http://supersonictv.live:25461/903310/034806/40467
+#EXTINF:-1,CA TSN 2 UHD
+http://supersonictv.live:25461/903310/034806/40468
+#EXTINF:-1,CA TSN 3 UHD
+http://supersonictv.live:25461/903310/034806/40469
+#EXTINF:-1,CA TSN 4 UHD
+http://supersonictv.live:25461/903310/034806/40470
+#EXTINF:-1,CA TSN 5 UHD
+http://supersonictv.live:25461/903310/034806/40471
+#EXTINF:-1,CA SPORTSNET_360
+http://supersonictv.live:25461/903310/034806/40472
+#EXTINF:-1,CA SPORTSNET EAST
+http://supersonictv.live:25461/903310/034806/40473
+#EXTINF:-1,CA SPORTSNET WEST
+http://supersonictv.live:25461/903310/034806/40474
+#EXTINF:-1,CA SPORTSNET ONE
+http://supersonictv.live:25461/903310/034806/40476
+#EXTINF:-1,CA SPORTSNET PACIFIC
+http://supersonictv.live:25461/903310/034806/40477
+#EXTINF:-1,CA SPORTSNET PPV
+http://supersonictv.live:25461/903310/034806/40478
+#EXTINF:-1,CA SportsNet World
+http://supersonictv.live:25461/903310/034806/40479
