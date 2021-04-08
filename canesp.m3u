@@ -1,43 +1,35 @@
-#EXTINF:-1,##### |CA| LOCAL #####
-http://pn.tvott.info:80/0174263561/8759368659/81227
-#EXTINF:-1,|CA| CTV 2 VANCOUVER
-http://pn.tvott.info:80/0174263561/8759368659/81226
-#EXTINF:-1,|CA| CTV VANCOUVER
-http://pn.tvott.info:80/0174263561/8759368659/81221
-#EXTINF:-1,|CA| CTV NEWS NETWORK
-http://pn.tvott.info:80/0174263561/8759368659/81219
-#EXTINF:-1,##### |CA| NEWS #####
-http://pn.tvott.info:80/0174263561/8759368659/81259
-#EXTINF:-1,|CA| BBC WORLD NEWS
-http://pn.tvott.info:80/0174263561/8759368659/81258
-#EXTINF:-1,|CA| CNBC
-http://pn.tvott.info:80/0174263561/8759368659/81257
-#EXTINF:-1,|CA| CNN
-http://pn.tvott.info:80/0174263561/8759368659/81256
-#EXTINF:-1,|CA| CNN INTERNATIONAL
-http://pn.tvott.info:80/0174263561/8759368659/81255
-#EXTINF:-1,|CA| CBC NEWS
-http://pn.tvott.info:80/0174263561/8759368659/81254
-#EXTINF:-1,|CA| FOX NEWS
-http://pn.tvott.info:80/0174263561/8759368659/81253
-#EXTINF:-1,|CA| CITY VANCOUVER
-http://pn.tvott.info:80/0174263561/8759368659/81397
-#EXTINF:-1,|CA| CBC VANCOUVER
-http://pn.tvott.info:80/0174263561/8759368659/81404
-#EXTINF:-1,|CA| CBS EAST
-http://pn.tvott.info:80/0174263561/8759368659/81403
-#EXTINF:-1,|CA| CBS WEST
-http://pn.tvott.info:80/0174263561/8759368659/81402
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC Canada
-http://37723998.to:2052/dale1/1234/21574?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
-http://37723998.to:2052/dale1/1234/21693?checkedby:iptvcat.com
+#EXTINF:-1,##### |CA| CANADA #####
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC NEW NETWORK
+https://fullenglish.xyz:443/monte/monte123/508927?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC New Network HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/247458?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC VANCOUVER HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/430?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TV VANCOUVER
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147407?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV 2
+http://skylogic.site:8080/esterichannel50con/36cb6c13/15013?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV 2 VANCOUVER
+http://rv.flysat.live:80/307200102142/307200102142/81226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS NETWORK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9312?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV News Channel HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/474?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV VANCOUVER
+http://rv.flysat.live:80/307200102142/307200102142/81221?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV VANCOUVER
+http://rv.flysat.live:80/307242117531/307242117531/81221?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV VANCOUVER HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/9314?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Undefined",CA | NTV,NTV,NTV CA
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,-------------- |SP| SPAIN HD -----------
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24 HORAS
 http://fliptv.vip:8011/omer/12345/55121?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="News;Undefined",24 Horas,24h Rtve (ES),rtve.es 24h
@@ -53,7 +45,6 @@ https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8?checkedby:iptvc
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Undefined",324,ES | 324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,-------------- |SP| SPAIN HD -----------
 http://pn.tvott.info:80/0174263561/8759368659/79364
 #EXTINF:-1,|SP| CORONA VIRUS INFO
 http://pn.tvott.info:80/0174263561/8759368659/79363
