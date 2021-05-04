@@ -1,28 +1,18 @@
 #EXTINF:-1,##### |CA| CANADA #####
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC HD
-http://miarea.vip:8080/nena/nena/83402?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC NEWS HD
-http://miarea.vip:8080/nena/nena/83404?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC News Network
 http://goodtv.xyz:2052/reggie/reggie/1549169?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC VANCOUVER
 http://securepoint.io:83/live/promo/promo/332741.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC VANCOUVER HD
-http://miarea.vip:8080/nena/nena/83406?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV 2 HD CA
 http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/29030?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Life Channel
 http://goodtv.xyz:2052/reggie/reggie/1549660?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS
 http://securepoint.io:83/live/promo/promo/355369.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS NETWORK
-http://miarea.vip:8080/nena/nena/83414?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV News
 http://goodtv.xyz:2052/reggie/reggie/1549161?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV News Channel HD CA
@@ -38,12 +28,6 @@ http://securepoint.io:83/live/promo/promo/332740.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Citytv Vancouver
 http://goodtv.xyz:2052/reggie/reggie/1549447?checkedby:iptvcat.com
 #EXTINF:-1,-------------- |SP| SPAIN HD -----------
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",24 HRS HD
-http://miarea.vip:8080/nena/nena/390?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="News;Undefined",24 Horas,24h Rtve (ES),rtve.es 24h
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="News",24 Horas
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24h Canarias
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="Undefined",25 TV
@@ -54,14 +38,8 @@ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?che
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Local",7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",CALLE 13 HD
-http://miarea.vip:8080/nena/nena/395?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",CANAL COCINA
-http://miarea.vip:8080/nena/nena/35550?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",CANAL SUR
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/3915?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",CINE DOC&ROLL HD
-http://miarea.vip:8080/nena/nena/407?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="Undefined",Canal 25 Barbastro
 http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="Undefined",Canal 4 Mancha Centro
@@ -70,14 +48,8 @@ https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?checkedby:i
 https://videos.canal56.com/directe/stream/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Local",Canal Málaga
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Local",Canal Málaga
-https://canalmalaga-tv-live.flumotion.com/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/QBzvCJc.png" group-title="Undefined",Canal San Roque
-https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="http://cdn.teleon.tv/logo/Canal-Super3.png" group-title="Undefined",Canal Super 3
 https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" group-title="Local",Canal d
-https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/Btnzf1m.png" group-title="Undefined",Condavision
 http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Local;Undefined",EITB,sp:MurciaETB Sat
@@ -86,16 +58,8 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8?chec
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="Undefined",ES | TV3 Catalunya,TV3 Catalunya
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KeBXBJE.png" group-title="Local",ETB 1
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General;Undefined",Galicia TV América,Televisión de Galicia América
 http://america-crtvg.flumotion.com/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/hmYDqGV.png" group-title="Undefined",Huesca TV
-https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="Undefined",La 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="Entertainment",La Voz 24h
-https://pull12.atresmedia.com/lavoz/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://www.lancelot.tv/images/logo.svg" group-title="Undefined",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/oe66woA.png" group-title="Undefined",Lebrija TV
