@@ -2,12 +2,43 @@
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/36917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV 2 VANCOUVER
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/1449?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/36836?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS CHANNEL
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/1456?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS Ca
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49065?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV NEWS VANCOUVER
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/36837?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV VANCOUVER
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/1460?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV VANCOUVER Ca
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/49067?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV VANCOUVER HD
-http://directtv1.xyz:80/18501/18501/161168?checkedby:iptvcat.com
+http://disfruta.net:80/fparreno/3NXhrLMX2e/3102?checkedby:iptvcat.com
 #EXTINF:-1,-------------- |SP| SPAIN HD -----------
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",SP  TELEDEPORTE FULL HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/184166?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",SP TELEDEPORTE
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/93378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELECINCO FHD
+http://superypunto.site:8080/sea/sea/38206?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELECINCO FHD EXTRA
+http://superypunto.site:8080/sea/sea/33427?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELEDEPORTE
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aui7OGiTA8larMj8a-OBcnR5ykwTNZiEfzfIG98p-eH_/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELEDEPORTE
+http://rv.flysat.live:80/307210013157/307210013157/171937?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELEDEPORTE FHD
+http://superypunto.site:8080/sea/sea/38389?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELEDEPORTE HD
+http://superypunto.site:8080/sea/sea/38390?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELEDEPORTE SD
+http://superypunto.site:8080/sea/sea/17618?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24h Canarias
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="Undefined",25 TV
@@ -45,46 +76,15 @@ http://62.210.141.18:1935/directo/lancelot.television/live.m3u8?checkedby:iptvca
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/oe66woA.png" group-title="Undefined",Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,-------------- |USA| USA HD -----------
-#EXTINF:0 tvg-country="US" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="Undefined",(ONLINE) USA:Newsy,Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/XgF6S22.png" group-title="News;Undefined",3News Now (KMTV-TV),CBS 3 KMTV,US | Omaha | CBS 3 KMTV
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC NEWS HD
-http://miarea.vip:8080/nena/nena/78211?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="News",CBN News
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBN News International
-http://gooserace.xyz:2052/donna/donna123/1192595?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN NEWS HD
-http://miarea.vip:8080/nena/nena/36065?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="News",NBC News NOW
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=213&deviceId=5df97894467dfa00091c873c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="http://yournewsnet.com/wp-content/uploads/2018/03/NNLogo.jpg" group-title="News;Undefined",NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
-http://miarea.vip:8080/nena/nena/775?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Undefined",STIRR Travel,US | STIRR Travel
-https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Undefined",Pluto TV Travel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=678&deviceId=59c01b1953680139c6ae9d4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TRAVEL CHANNEL HD**
-http://miarea.vip:8080/nena/nena/76116?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" group-title="Music",California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JsHqCfm.jpg" group-title="Music",Latido Music
-https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Undefined",STIRR Music,US | STIRR Music
-https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Undefined",MTV Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b1d83dd9-b335-4871-89a1-b92cf2651b65-small3x1_STIRR_Logo_0720_StingrayLatinPop_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Undefined",Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD
-http://miarea.vip:8080/nena/nena/621?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY LIFE HD
-http://miarea.vip:8080/nena/nena/35318?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Undefined",Pluto TV History
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=651&deviceId=5a4d35dfa5c02e717a234f86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://miarea.vip:8080/nena/nena/615?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bein Sports En Español
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/398656?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS SPORTS NET
+http://dimapro.cz:8080/00:1A:79:17:08:C5/fukssjslsljls/39088?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS SPORTS NETWORK
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1281?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://my.streamerstv.com:25461/Andy/Andy/226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",OLYMPIC CHANNEL
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/114332?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Olympic Channel
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/829?checkedby:iptvcat.com
