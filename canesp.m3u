@@ -3,16 +3,14 @@
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/1425?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC VANCOUVER
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/6037?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC VANCOUVER
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/37356?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TV VANCOUVER
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/1432?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TV VANCOUVER
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/6046?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV 2 VANCOUVER
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/1449?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV VANCOUVER
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/1460?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GLOBAL VANCOUVER
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/6079?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GLOBAL VANCOUVER
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/6079?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
@@ -24,6 +22,8 @@ http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/3664?checkedby:iptvcat.
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GLOBAL NEWS
 http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/1479?checkedby:iptvcat.com
 #EXTINF:-1,-------------- |SP| SPAIN HD -----------
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Undefined",324,ES | 324
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",3/24 cat
 http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23auqVeVtEHQREf9YPokNn3DlGnN9r09yIqKBbaOHXnoob/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",3/24 cat
